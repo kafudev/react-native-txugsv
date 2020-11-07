@@ -1,5 +1,5 @@
 {
-  "name": "react-native-txugsv",
+  "name": "@kafudev/react-native-txugsv",
   "version": "0.1.1",
   "description": "react-native-txugsv 腾讯短视频UGSV",
   "main": "lib/commonjs/index",
